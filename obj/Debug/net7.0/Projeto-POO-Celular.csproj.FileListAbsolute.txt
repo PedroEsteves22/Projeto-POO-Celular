@@ -1,0 +1,15 @@
+C:\Users\ped-r\Documents\C#\Projeto-POO-Celular\bin\Debug\net7.0\Projeto-POO-Celular.exe
+C:\Users\ped-r\Documents\C#\Projeto-POO-Celular\bin\Debug\net7.0\Projeto-POO-Celular.deps.json
+C:\Users\ped-r\Documents\C#\Projeto-POO-Celular\bin\Debug\net7.0\Projeto-POO-Celular.runtimeconfig.json
+C:\Users\ped-r\Documents\C#\Projeto-POO-Celular\bin\Debug\net7.0\Projeto-POO-Celular.dll
+C:\Users\ped-r\Documents\C#\Projeto-POO-Celular\bin\Debug\net7.0\Projeto-POO-Celular.pdb
+C:\Users\ped-r\Documents\C#\Projeto-POO-Celular\obj\Debug\net7.0\Projeto-POO-Celular.csproj.AssemblyReference.cache
+C:\Users\ped-r\Documents\C#\Projeto-POO-Celular\obj\Debug\net7.0\Projeto-POO-Celular.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ped-r\Documents\C#\Projeto-POO-Celular\obj\Debug\net7.0\Projeto-POO-Celular.AssemblyInfoInputs.cache
+C:\Users\ped-r\Documents\C#\Projeto-POO-Celular\obj\Debug\net7.0\Projeto-POO-Celular.AssemblyInfo.cs
+C:\Users\ped-r\Documents\C#\Projeto-POO-Celular\obj\Debug\net7.0\Projeto-POO-Celular.csproj.CoreCompileInputs.cache
+C:\Users\ped-r\Documents\C#\Projeto-POO-Celular\obj\Debug\net7.0\Projeto-POO-Celular.dll
+C:\Users\ped-r\Documents\C#\Projeto-POO-Celular\obj\Debug\net7.0\refint\Projeto-POO-Celular.dll
+C:\Users\ped-r\Documents\C#\Projeto-POO-Celular\obj\Debug\net7.0\Projeto-POO-Celular.pdb
+C:\Users\ped-r\Documents\C#\Projeto-POO-Celular\obj\Debug\net7.0\Projeto-POO-Celular.genruntimeconfig.cache
+C:\Users\ped-r\Documents\C#\Projeto-POO-Celular\obj\Debug\net7.0\ref\Projeto-POO-Celular.dll
